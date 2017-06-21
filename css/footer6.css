@@ -1,0 +1,9 @@
+.footer{ 
+		height: 107px;
+		width: 100%;
+		background-color: #464646;}
+	.we li{float:left;list-style:none;font-size: 15px;margin-right:40px;color: white;}
+	.we a{text-decoration: none;color:white;}
+	.we{margin-left:200px;padding-top: 15px;margin-bottom:50px; }
+	#co{clear:both;margin-left:240px;}
+}

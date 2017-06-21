@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8">
+<style type="text/css">
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	.item{
+		width: 40px;
+		height: 15px;
+		left: 200px;
+		float: left;
+		margin-left: 20px;
+		border:1px solid black;
+		text-align: center;
+	}
+	a{text-decoration: none;}
+	#box{
+		width: 300px;
+		height: 300px;
+		border:1px solid black;
+		position: absolute;
+		top:15px;
+		left: 0;
+	}
+	#hide{display: none;}
+</style>
+</head>
+<body>
+	<div class="item" id="item1"><a href="#">1111</div>
+	<div class="item"><a href="#">2222</div>
+	<div class="item"><a href="#">3333</div>
+	<div class="item"><a href="#">4444</div>
+	<div id="box">
+	<script type="text/javascript">
+
+		var divs = document.getElementsByTagName("div");
+		var len = divs.length;
+		for(var i=0;i<len;i++){
+			divs[i].onclick = function(){
+				for(var j=0;j<len;j++)
+				{
+					divs[j].style.backgroundColor = "#fff";
+				}
+				this.style.backgroundColor = "red";
+				document.getElementById('box').innerHTML=this.innerHTML;
+			};
+		}
+
+	
+</script>
+</head>
+	</script>
+</body>
+</html>

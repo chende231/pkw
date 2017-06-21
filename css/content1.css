@@ -1,0 +1,29 @@
+.content{height:1640px;width:1360px;}
+.what{height:240px;width:1360px;background-color:#f7f7f7;}
+.jn{height:180px;width:180px;margin-left: 200px;margin-top: 25px;float: left;}
+.wha{height:50px;width:320px;margin-left:150px;margin-top:30px;float:left;}
+.stu{height:150px;width:500px;clear:both;margin-left:150px;margin-top: 5px;}
+.whyyy{height:150px;width:500px;clear:both;margin-left:100px;margin-top: 5px;}
+.how{height:240px;width:1360px;background-color:#f7f7f7;position: relative;}
+.why{height:240px;width:1360px;background-color:#f7f7f7;}
+.dreamcourse{height:300px;width:1360px;background-color:#ffffff;margin-left:160px;}
+.dreamplan{height:320px;width:1360px;background-color:#ffffff;margin-left:180px;}
+.dreamteacher{height:300px;width:1360px;background-color:#ffffff;}
+.box{height:230px;width:200px;float:left;margin-right:80px;margin-top: 40px;border:1px solid #d6d5d5;}
+.hand{height:160px;width:200px;}
+.aa{margin-top: 10px;margin-left:5px;}
+.bb{margin-left:5px;float:left;margin-top:15px;}
+.cc{float:right;margin-right:15px;margin-top:10px;}
+.yuan1{height:80px;width:80px;border-radius: 50%;background-color: #e95325;top:90px;left:150px;position: absolute;}
+.yuan2{height:100px;width:100px;border-radius: 50%;background-color: #1b8abe;top:25px;left:215px;position: absolute;}
+.yuan3{height:80px;width:80px;border-radius: 50%;background-color: #ef5fa3;top:40px;left:330px;position: absolute;}
+.yuan4{height:80px;width:80px;border-radius: 50%;background-color: green;top:130px;left:400px;position: absolute;}
+.zh{padding:20px 0 0 25px;color:#fff;font-weight: bold;}
+#HOW{position:absolute;left:600px;top:20px;}
+#jiehe{position:absolute;left:600px;top:80px;height:200px;width:300px;}
+.dp{height:280px;width:230px;float:left;margin-top:10px;border-right: 2px solid #d6d5d5;overflow: hidden;padding-left:20px;padding-top: 15px;}
+#dp2{background-color: #34b4ef;}
+.cpp{height:200px;width:200px;}
+.whyleft{margin-left:150px;padding-top: 20px;}
+#huche1{margin:20px 200px 0 100px;float:left;}
+.huche2{margin-right: 50px;float:left;margin-top:100px;}

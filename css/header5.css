@@ -1,0 +1,112 @@
+ body{overflow-x:hidden;}
+.header{height: 400px;
+		width:1366px;
+		background-image: url(../images/bggg.png);
+		background-repeat: no-repeat;
+	 	background-size: 100% 100%;
+	 	margin: 0 auto;
+	}
+#logo{	height: 30px;
+ 		width: 140px;
+		 margin-left: 200px;
+ 		 float: left; 
+}
+#wx{float: left;
+	height: 50px; 
+	width: 20px;
+	 padding-top: 20px;
+	 padding-left: 20px;
+	 margin-left: 150px;}
+.word{ float: left;}
+.word li{float: left;
+	list-style:none;
+	width:100px;
+	margin-right:5px;
+	text-align: center;
+	margin-top: 5px;
+	font-size: 13px;} 
+#tongchou{color:#34b4ef;}
+#word2{float: left;}
+#word2 li{float: left;
+	list-style: none;
+	width: 50px;
+	text-align: center; 
+	margin-right: 10px; 
+	margin-top: 10px;
+	font-size: 10px;
+	 position: relative;}
+.erji{float: none;
+	background-color: black;
+	 position: absolute; 
+	 top:-5px;left:-40px; }
+.erji a:hover{color:#00F;
+	background-color:#999}
+.erji_ul{display:none;}
+ul li:hover 
+.erji_ul{display:block;}
+.header a{text-decoration: none;color:#A5A5A5;}
+.player{height:339px; 
+		width: 521px;
+	 	margin-left:200px;
+	 	 background-image:url(../images/player.png);
+	  	 background-repeat:no-repeat;
+	   	 position:absolute;
+	     top:61px; 
+	     background-size: 100% 100%;}
+.chanpin{width:300px;height:200px;float:left;position:absolute; left:750px; top:80px; }
+.jieshao{
+		width:299px;
+		height:300px;
+		float:right;
+		font-size:13px;
+		position:absolute;
+		top:155px;
+		right:310px;
+		}
+.jieshao p{color: white;
+		line-height:17px;
+}
+.cost { 
+		width: 150px;
+		height: 35px;
+		border-radius:3px;
+		border:  1px solid white;
+		float: left;
+		position: absolute;
+		top: 330px;
+		right: 460px;
+}
+.cost p{
+		font-size: 15px;
+		color: white;
+		position: absolute;
+		top: -8px;
+		left:45px; 
+}
+.headerdown{
+		width: 100%;
+		height: 50px; 
+		background-color:#E8ECF2; 
+		padding-left: 180px;
+		margin-top: -16px;
+	}
+.headerdown li{
+		float: left;
+		list-style: none;
+		width: 120px;
+		margin-right: 15px;
+		margin-top: 15px;
+		font-size: 15px;
+		color:#7E8387;
+		position: relative;
+		}
+#mulu{ 
+		background-color:#00A0E9;
+		height: 35px;
+		width: 120px;
+		text-align: center;
+		margin-top: -1px;
+		margin-left:  -30px;
+		padding-top: 15px;
+		margin-right: 40px;	
+	}

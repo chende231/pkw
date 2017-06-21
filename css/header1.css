@@ -1,0 +1,18 @@
+	body{overflow-x: hidden;}
+	.header{margin:0 auto;height: 400px;width: 1360px;background-image: url(../images/bg.png);background-repeat: no-repeat; background-size: 100% 100%;}
+    #logo{height: 55px; width: 140px;margin-left: 200px; float: left; }
+    #wx{float: left;height: 50px; width: 20px; padding-top: 20px;padding-left: 20px;margin-left: 150px;}
+    .word{ float: left;}
+    .word li{float: left;list-style:none;width:100px;margin-right:5px;text-align: center;margin-top: 5px;font-size: 15px;} 
+    #tongchou{color:#34b4ef;}
+    .word a{text-decoration: none;color:#A5A5A5;}
+    #meng{height:90px;width:1200px;margin:0 auto;padding-top:170px;}
+    #button1{margin-left: 300px;}
+    #word2{float: left;}
+   	#word2 li{float: left;list-style: none;width: 50px;text-align: center; margin-right: 10px; margin-top: 10px;font-size: 10px; position: relative;}
+   	.erji{float: none;background-color: black; position: absolute; top:-5px;left:-40px; }
+   	.erji a:hover{color: #00F;background-color: #999}
+   	.erji_ul{display:none; }
+   	ul li:hover 
+   	.erji_ul{display:block;}
+   .header a{text-decoration: none;color:#A5A5A5;}

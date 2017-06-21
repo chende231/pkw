@@ -1,0 +1,5 @@
+ body{overflow-x:hidden;}
+.content{width: 1366px; height: 850px;padding: 50px 0 15px 200px; background-color: #F9F9F9;}
+.android{height:320px;width: 271px;float:left;border:1px solid #d0d0d0;margin-right: 50px;}
+.zhichi{margin-left:70px;margin-top: 10px;}
+.jiangshi{margin-left:105px;margin-top: 30px;}

@@ -1,0 +1,13 @@
+.footer{margin:0 auto;
+	height: 280px;
+	width: 1400px;
+	background-image: url(../images/bg2.png);
+	background-repeat: no-repeat;
+	 background-size: 100% 100%;
+	}
+	#dream{height:100px;width:350px;padding-left: 650px;padding-top:30px;}
+	#zhuce{height:50px;width:130px;padding:10px 0 0 730px;}
+	.we li{float:left;list-style:none;font-size: 15px;margin-right:40px;color: white;}
+	.we a{text-decoration: none;color:white;}
+	.we{margin-left:260px;padding-top: 15px;margin-bottom:45px; }
+	#co{clear:both;margin-left:300px;}
